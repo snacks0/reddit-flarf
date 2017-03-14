@@ -1,5 +1,5 @@
 # reddit-flarf
-by Shawna Cheng
-https://vimeo.com/208239101
-Dataset from DennyBritz
-Uses RiTa library
+by Shawna Cheng<br />
+https://vimeo.com/208239101<br />
+Dataset from DennyBritz<br />
+Uses RiTa library<br />
